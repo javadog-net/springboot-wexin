@@ -1,0 +1,7 @@
+# 测试环境配置
+spring:
+  profiles: test
+
+#端口设置
+server:
+  port: 8001

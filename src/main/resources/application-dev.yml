@@ -1,0 +1,7 @@
+# 开发环境配置
+spring:
+  profiles: dev
+
+#端口设置
+server:
+  port: 8000

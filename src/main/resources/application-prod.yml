@@ -1,0 +1,7 @@
+# 生产环境配置
+spring:
+  profiles: prod
+
+#端口设置
+server:
+  port: 8002

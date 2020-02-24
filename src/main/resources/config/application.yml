@@ -1,0 +1,23 @@
+spring:
+  profiles:
+    #激活配置文件
+    active: prod
+  #配置静态资源路径
+  resources:
+    static-locations: classpath:/static/
+
+#日志相关
+logging:
+  #配置文件日志路径
+  config: classpath:logback-spring.xml
+
+#微信相关配置
+wx:
+  #appId （到时候换成自己公众号的）
+  appId: wx4ad618620f8c3528
+  #appSecret（到时候换成自己公众号的）
+  appSecret: b772c7863b29e270aa86e40f9b9e6215
+  #参考以下文档获取access_token（有效期7200秒，开发者必须在自己的服务全局缓存access_token）
+  jssdk_accesstoken_url: https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=APPID&secret=APPSECRET
+  #用第一步拿到的access_token 采用http GET方式请求获得jsapi_ticket（有效期7200秒，开发者必须在自己的服务全局缓存jsapi_ticket）
+  jssdk_getticket_url: https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=ACCESS_TOKEN&type=jsapi
