@@ -792,10 +792,6 @@ IP白名单需要在公众号**安全中心设置**
 3. invalid signature 签名异常
 建议使用微信JSSDK[签名验证工具](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=jsapisign)验证是否有误
 
-
-我是JavaDog，谢谢博友耐心看完了，**点个赞👍**再走呗，不行批评点评两句也行啊！！！
-
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xOTM1NTczNS1mZTkzZWY5NDIyMjg1Yzg5?x-oss-process=image/format,png)
-![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xOTM1NTczNS01MWVlYzhiNmRkMzRjZmM3?x-oss-process=image/format,png)
-    
+我是JavaDog，谢谢博友耐心看完, 抽空来我狗窝🐕瞅瞅呗 [blog.javadog.net](https://blog.javadog.net)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/f6728ecded5c4d58a667f6540dc67d20.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBASmF2YURvZ-eoi-W6j-axqg==,size_20,color_FFFFFF,t_70,g_se,x_16)
 
